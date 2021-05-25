@@ -1,4 +1,4 @@
-# eth-hash
+# vap-hash
 
 [![Join the chat at https://gitter.im/ethereum/web3.py](https://badges.gitter.im/ethereum/web3.py.svg)](https://gitter.im/ethereum/web3.py?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/ethereum/eth-hash.png)](https://travis-ci.org/ethereum/eth-hash)
@@ -7,7 +7,7 @@
 [![Docs build](https://readthedocs.org/projects/eth-hash/badge/?version=latest)](http://eth-hash.readthedocs.io/en/latest/?badge=latest)
    
 
-The Ethereum hashing function, keccak256, sometimes (erroneously) called sha3
+The Vapory hashing function, keccak256, sometimes (erroneously) called sha3
 
 Note: the similarly named [pyethash](https://github.com/ethereum/ethash)
 has a completely different use: it generates proofs of work.
